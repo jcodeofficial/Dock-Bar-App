@@ -1,1 +1,1 @@
-# Dock-Bar-App
+HorizontalOffset values may vary across different devices due to differences in display resolution, DPI settings, screen scaling, and layout adaptation. These factors can affect how elements are positioned, leading to inconsistencies if fixed values are used. To ensure consistent UI behavior, consider using relative positioning, dynamic binding, and screen size detection to adapt the offset based on the environment. You may need to adjust HorizontalOffset slightly so that text displays their name properly when the mouse hovers over the button.
